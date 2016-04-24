@@ -1,6 +1,8 @@
 # msgbot
 
-Facebook messenger BOT webhook code in clojure.
+Clojure Backend code for Facebook Messanger BOT webhook callback.
+
+only you have to change your :hub.verify_token value and page token value in code to test your BOT app.
 
 
 ## Getting Started
